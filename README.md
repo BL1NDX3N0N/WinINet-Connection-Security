@@ -1,5 +1,5 @@
 # WinINet Connection Security
-A small example of using WinINet to interrogate open internet handles for negotiated security protocols and ciphers.
+A small example of using the Windows Internet (WinINet) API to interrogate open internet handles for negotiated security protocols and ciphers.
 
 Usage:
 
@@ -15,7 +15,7 @@ InternetServices.InternetCloseHandle(internetHandle);
 
 ![Locals View](https://github.com/BL1NDX3N0N/WinINet-Connection-Security/blob/main/assets/LocalsView.jpg)
 
-All necessary functions in the Windows Internet API have been wrapped for you and further documentation can be found below:
+All necessary functions have been wrapped for you and further documentation can be found below:
 
 - https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetopenw
 - https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetopenurlw
