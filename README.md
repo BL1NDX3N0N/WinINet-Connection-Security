@@ -1,5 +1,5 @@
 # WinINet Connection Security
-A small example of using the Windows Internet (WinINet) API to interrogate open internet handles for negotiated security protocols and ciphers.
+A small example of using the [Windows Internet (WinINet) API](https://docs.microsoft.com/en-us/windows/win32/wininet/portal) to interrogate open internet handles for negotiated security protocols and ciphers.
 
 Usage:
 
