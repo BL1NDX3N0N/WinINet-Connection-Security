@@ -118,7 +118,6 @@
         /// </summary>
         SP_PROT_UNI = SP_PROT_UNI_SERVER | SP_PROT_UNI_CLIENT,
 
-
         SP_PROT_ALL = 4294967295,
     }
 }
